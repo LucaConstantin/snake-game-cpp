@@ -6,12 +6,6 @@
 Snake game replica made with C++ programming language. You can only play in the console.
 </div>
 
-<div display="flex" align="center">
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  
-</div>
-
 <br>
 <div align="center">
 <img alt="screenshot" src="https://media.discordapp.net/attachments/718119386032111646/1035113147540975646/Screenshot_2022-10-27_114954.jpg">
