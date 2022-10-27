@@ -1,23 +1,16 @@
 
-<br>
+<h2 align="center">
+   Snake Game Replica
+ </h2>
 <div align="center">
-<img width="150" style="border-radius:50%" alt="logotype" src="https://www.onemotion.com/snake-game/images/snake-text.png">
+Snake game replica made with C++ programming language. You can only play in the console.
 </div>
-<br>
-
 
 <div display="flex" align="center">
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
 </div>
-
-<h2 align="center">
-   Snake Game Replica
- </h2>
-
-Snake game replica made with C++ programming language. You can only play in the console.
-
 
 <br>
 <div align="center">
