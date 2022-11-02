@@ -20,4 +20,8 @@ Snake game replica made with C++ programming language. You can only play in the 
 3. Click the build and run icon on the upper side next to the run icon;
 4. Have fun!
 
+# License
+
+MIT License
+
  
